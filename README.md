@@ -10,7 +10,7 @@ L'objectif est de proposer un produit avec un Nutriscore  A ou B à la place d'u
 
 Bonus : Calculer le Nutrition Grade pour les nouveaux produits rentrés dans la base
 
-### Données à disposition : 
+### Données à disposition 
 Base de données de produits alimentaires ouverte et collaborative composée de plus de 320 000 produits et 162 variables
 
 Variables disponibles :
@@ -20,7 +20,7 @@ Variables disponibles :
 - Des informations nutritionnelles : quantité en grammes d’un nutriment (en g ou kJ) pour 100 grammes du produit : l'énergie, le sel, le sucre, le gras…
 - Le Nutriscore : repère graphique qui classe les produits selon un score prenant en compte la teneur en nutriment et aliments à favoriser et ceux à limiter : A (« meilleure qualité nutritionnelle ») à E (« moins bonne qualité nutritionnelle »).
 
-### Missions : 
+### Missions 
 
 1) Traiter le jeu de données, en :
 - Réfléchissant à une idée d’application.
@@ -38,7 +38,7 @@ Variables disponibles :
 
 5) Rédiger un rapport d’exploration et pitcher votre idée durant la soutenance du projet.
 
-## Compétences évaluées :
+## Compétences évaluées
 - Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes
 - Effectuer des opérations de nettoyage sur des données structurées
 - Effectuer une analyse statistique multivariée
