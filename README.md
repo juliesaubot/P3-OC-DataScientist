@@ -5,7 +5,9 @@ Projet 3 de la formation OpenClassrooms du parcours data scientist
 
 ## Objectifs du projet
 Participation d’un appel à projet lancé par l'agence "Santé publique France" pour trouver des idées innovantes d’applications en lien avec l’alimentation.
+
 L'objectif est de proposer un produit avec un Nutriscore  A ou B à la place d'un produit avec un nutriscore C, D ou E : tout en gardant la même catégorie et avec le même apport en nutriment que le produit demandé 
+
 Bonus : Calculer le Nutrition Grade pour les nouveaux produits rentrés dans la base
 
 ### Données à disposition : 
